@@ -2,7 +2,7 @@
 
 ---
 
-## PART 1
+## PART 1 ##
 
 ---
 
@@ -12,7 +12,7 @@ Create a **Github** account using your email from the following link: https://gi
 
 ---
 
-##Github (creating a repository):
+##Github (creating a repository): ##
 Sign in to **Github**.
 Click the “+” button, at the top-right, and press on **“New repository”**.
 Name your repository.
