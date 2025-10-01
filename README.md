@@ -6,13 +6,13 @@
 
 ---
 
-##One-time Setups and Downloads for Git and Github:
+## One-time Setups and Downloads for Git and Github:
 Download and install **GIT** from the following link: https://git-scm.com/downloads
 Create a **Github** account using your email from the following link: https://github.com/join
 
 ---
 
-##Github (creating a repository): ##
+## Github (creating a repository): ##
 Sign in to **Github**.
 Click the “+” button, at the top-right, and press on **“New repository”**.
 Name your repository.
@@ -22,7 +22,7 @@ Click **“Create repository”**.
 
 ---
 
-##Webstorm:
+## Webstorm:
 Go to the following website to download the JetBrains editor: https://www.jetbrains.com/academy/student-pack/
 Click on “Request Now” in order to get institutional access to a JetBrains account. (Note: for this you will need your school credentials).
 After gaining access, you will be directed to downloads, locate the Webstorm editor.
@@ -44,11 +44,11 @@ Congratulations the changes should now show up on your Github Repository!
 
 ---
 
-##PART 2
+## PART 2
 
 ---
 
-##Glossary
+## Glossary
 
 **Branch** - A separate workspace in your repository where you are able to make changes without affecting the main project until you feel ready to do so (by merging into a different branch).
 **Clone** - Making a copy of a repository on your own computer.
@@ -65,7 +65,7 @@ Congratulations the changes should now show up on your Github Repository!
 
 ---
 
-##References
+## References
 Git downloads: https://git-scm.com/downloads
 Github: https://github.com
 Webstorm download: https://www.jetbrains.com/academy/student-pack/
