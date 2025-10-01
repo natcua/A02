@@ -7,40 +7,40 @@
 ---
 
 ## One-time Setups and Downloads for Git and Github:
-Download and install **GIT** from the following link: https://git-scm.com/downloads
-Create a **Github** account using your email from the following link: https://github.com/join
+1. Download and install **GIT** from the following link: https://git-scm.com/downloads
+2. Create a **Github** account using your email from the following link: https://github.com/join
 
 ---
 
 ## Github (creating a repository): ##
-Sign in to **Github**.
-Click the “+” button, at the top-right, and press on **“New repository”**.
-Name your repository.
-Make sure you make your repository “Public”.
-Check the “Initialize with a README”.
-Click **“Create repository”**.
+1. Sign in to **Github**.
+2. Click the “+” button, at the top-right, and press on **“New repository”**.
+3. Name your repository.
+4. Make sure you make your repository “Public”.
+5. Check the “Initialize with a README”.
+6. Click **“Create repository”**.
 
 ---
 
 ## Webstorm:
-Go to the following website to download the JetBrains editor: https://www.jetbrains.com/academy/student-pack/
-Click on “Request Now” in order to get institutional access to a JetBrains account. (Note: for this you will need your school credentials).
-After gaining access, you will be directed to downloads, locate the Webstorm editor.
-Since you have already set up your Github account, and set up a repository, open the Webstorm editor and click the “menu” for settings.
-Click “New” and click “Project from Version Control”.
-Make sure you also have Github open because you will need to locate the repository you want to clone to Webstorm.
-On Github, after you have located the repository, click on the green “< > Code” button. Copy the path for the repository and paste it into where the URL section on Webstorm is.
-Click “Clone” .
-On Webstorm, create a file - Click “File”.
-Click “New”.
-Click “HTML File”.
-For a stylesheet, repeat steps 9 & 10 and click on “Stylesheet”.
-If you want to add the files to Git, click “Add”.
-Commit your changes from your local machine to the repository by clicking “Commit” (the files have been edited and will show in green).
-Select the files you want to save the changes of and make sure to write a descriptive message of what you are committing to keep things organized.
-Click “Commit and Push”.
-Click “Push”.
-Congratulations the changes should now show up on your Github Repository!
+1. Go to the following website to download the JetBrains editor: https://www.jetbrains.com/academy/student-pack/
+2. Click on “Request Now” in order to get institutional access to a JetBrains account. (Note: for this you will need your school credentials).
+3. After gaining access, you will be directed to downloads, locate the Webstorm editor.
+4. Since you have already set up your Github account, and set up a repository, open the Webstorm editor and click the “menu” for settings.
+5. Click “New” and click “Project from Version Control”.
+6. Make sure you also have Github open because you will need to locate the repository you want to clone to Webstorm.
+7. On Github, after you have located the repository, click on the green “< > Code” button. Copy the path for the repository and paste it into where the URL section on Webstorm is.
+8. Click “Clone” .
+9. On Webstorm, create a file - Click “File”.
+10. Click “New”.
+11. Click “HTML File”.
+12. For a stylesheet, repeat steps 9 & 10 and click on “Stylesheet”.
+13. If you want to add the files to Git, click “Add”.
+14. Commit your changes from your local machine to the repository by clicking “Commit” (the files have been edited and will show in green).
+15. Select the files you want to save the changes of and make sure to write a descriptive message of what you are committing to keep things organized.
+16. Click “Commit and Push”.
+17. Click “Push”.
+18. Congratulations the changes should now show up on your Github Repository!
 
 ---
 
