@@ -66,7 +66,7 @@ Congratulations the changes should now show up on your Github Repository!
 ---
 
 ## References
-Git downloads: https://git-scm.com/downloads
-Github: https://github.com
-Webstorm download: https://www.jetbrains.com/academy/student-pack/
-Webstorm getting started: https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html
+* Git downloads: https://git-scm.com/downloads
+* Github: https://github.com
+* Webstorm download: https://www.jetbrains.com/academy/student-pack/
+* Webstorm getting started: https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html
