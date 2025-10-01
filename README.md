@@ -50,18 +50,18 @@ Congratulations the changes should now show up on your Github Repository!
 
 ## Glossary
 
-**Branch** - A separate workspace in your repository where you are able to make changes without affecting the main project until you feel ready to do so (by merging into a different branch).
-**Clone** - Making a copy of a repository on your own computer.
-**Commit** - Saving your changes with a small message explaining what you have done.
-**Fetch** - Checking the updates from Github without applying them.
-**GIT** - It is a version control system that tracks changes to files over time.
-**Github** - A website where you are able to store, as well as share, Git projects online.
-**Merge** - This is when you combine changes from one branch into another branch.
-**Merge Conflict** - When Git tries to compare differences between two branches who have changed the same thing, Git needs you to manually decide which change to keep.
-**Push** - Sending you saved changes (commits) from your computer to Github.
-**Pull** - Getting the newest changes from Github and adding them to your project.
-**Remote** - Github version of your project stored online.
-**Repository** - A project that Git is keeping track of with all its files and history.
+* **Branch** - A separate workspace in your repository where you are able to make changes without affecting the main project until you feel ready to do so (by merging into a different branch).
+* **Clone** - Making a copy of a repository on your own computer.
+* **Commit** - Saving your changes with a small message explaining what you have done.
+* **Fetch** - Checking the updates from Github without applying them.
+* **GIT** - It is a version control system that tracks changes to files over time.
+* **Github** - A website where you are able to store, as well as share, Git projects online.
+* **Merge** - This is when you combine changes from one branch into another branch.
+* **Merge Conflict** - When Git tries to compare differences between two branches who have changed the same thing, Git needs you to manually decide which change to keep.
+* **Push** - Sending you saved changes (commits) from your computer to Github.
+* **Pull** - Getting the newest changes from Github and adding them to your project.
+* **Remote** - Github version of your project stored online.
+* **Repository** - A project that Git is keeping track of with all its files and history.
 
 ---
 
